@@ -13,13 +13,12 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ig6890tu1caz9rduwfjpwh0gb)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ig6890tu1caz9rduwfjpwh0gb)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/c/YUNGJOHAN" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/YUNGJXHXN" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/c/YUNGJOHAN"/>][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/YUNGJXHXN"/>][twitter]
 
 <br />
 <br />
